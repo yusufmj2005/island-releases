@@ -1,0 +1,55 @@
+ISLAND END-USER LICENCE AGREEMENT
+Last updated: 8 November 2026
+
+This agreement is between you and Almost Intelligent ("we"), the seller of Island ("the
+software") on Whop. By installing or using Island you agree to it. If you don't agree, don't
+install or use Island.
+
+1. YOUR LICENCE
+While you have an active Island membership on Whop (including a free trial), we give you a
+personal, non-transferable licence to install and use Island on one Windows PC at a time with
+your licence key. You can move it to another PC by removing it from the first one
+(Settings > Licence > Remove) or by resetting the key from your Whop order.
+
+2. WHAT YOU MAY NOT DO
+You may not:
+  - share, sell, rent or publish your licence key or the software;
+  - get around, disable or tamper with the licence check;
+  - reverse engineer or modify the software, except where the law allows it regardless of
+    this agreement.
+
+3. SUBSCRIPTION, CANCELLATION AND REFUNDS
+Island is sold as a subscription through Whop. You can cancel any time from your Whop account;
+Island keeps working until the end of the period you have paid for. If you cancel before a free
+trial ends, you are not charged. Payments for a period that has already started are not
+refunded, except where the law requires it. Billing is handled by Whop under Whop's terms.
+
+4. UPDATES
+We may release updates to fix problems or add features. Some updates may be needed for the
+licence check to keep working.
+
+5. PRIVACY
+Island keeps your data on your PC. The only information it sends is the licence check: your
+licence key and an anonymous ID for your PC. See the privacy policy:
+https://github.com/yusufmj2005/island-releases/blob/main/PRIVACY.md
+
+6. THIRD-PARTY SOFTWARE
+Island includes open-source components (such as Electron, Chromium, React and the Inter font)
+under their own licences. Their notices are in THIRD-PARTY-NOTICES.txt in Island's
+installation folder.
+
+7. NO WARRANTY
+Island is provided "as is", without warranties of any kind, to the extent the law allows. We
+don't promise that it will be error-free or work with every app, device or version of Windows.
+
+8. LIMITATION OF LIABILITY
+To the extent the law allows, we are not liable for any indirect or consequential loss arising
+from your use of Island, and our total liability is limited to the amount you paid for Island in
+the 12 months before the claim.
+
+9. ENDING THIS AGREEMENT
+Your licence ends when your membership ends, or if you break this agreement. When it ends, stop
+using Island and uninstall it.
+
+10. CONTACT
+Message us through Island's Whop page: https://whop.com/almost-intelligent/island-c0/

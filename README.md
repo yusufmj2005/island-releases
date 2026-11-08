@@ -11,3 +11,5 @@ Island needs a licence key. Get it on Whop: https://whop.com/almost-intelligent/
 To update, download the newest installer and run it over the old one. Your settings and licence are kept.
 
 This repository holds installers only; Island's source code is private.
+
+**Legal:** [Licence agreement](EULA.txt) · [Privacy policy](PRIVACY.md)

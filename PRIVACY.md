@@ -14,6 +14,8 @@ Island keeps these only in `%APPDATA%\Island` on your computer, and never sends 
 - screenshot previews (Island only shows them; it doesn't upload them);
 - a diagnostics log (`island.log`), which you can choose to send us when asking for help.
 
+While music is playing, Island also reads the sound your PC is playing, live, to draw the moving bars on the island. It only measures how loud the bass, middle and treble are at each moment; the sound is never recorded, saved or sent anywhere.
+
 ## What Island sends: the licence check
 
 When Island starts, and a few times a day while it runs, it checks that your licence is valid.
